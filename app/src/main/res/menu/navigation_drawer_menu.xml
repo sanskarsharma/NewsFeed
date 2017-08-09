@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single"
+
+    >
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/sun"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_chattisgarh"
+        android:icon="@drawable/sun"
+        android:title="Chattisgarh" />
+    <item
+        android:id="@+id/nav_india"
+        android:icon="@drawable/sun"
+        android:title="India" />
+    <item
+        android:id="@+id/nav_international"
+        android:icon="@drawable/sun"
+        android:title="International" />
+    <item
+        android:id="@+id/nav_sports"
+        android:icon="@drawable/sun"
+        android:title="Sports" />
+    <item
+        android:id="@+id/nav_entertainment"
+        android:icon="@drawable/sun"
+        android:title="Entertainment" />
+    <item
+        android:id="@+id/nav_politics"
+        android:icon="@drawable/sun"
+        android:title="Politics" />
+
+
+
+</group>
+
+<item android:title="Communicate"
+    >
+    <menu>
+        <item
+            android:checkable="true"
+            android:id="@+id/nav_bookmarks"
+            android:icon="@drawable/sun"
+            android:title="My Bookmarks" />
+        <item
+            android:checkable="true"
+            android:id="@+id/nav_polls"
+            android:icon="@drawable/sun"
+            android:title="Polls and Surveys" />
+    </menu>
+</item>
+
+</menu>

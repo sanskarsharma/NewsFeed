@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "194440518621",
+    "firebase_url": "https://newstest-d1fac.firebaseio.com",
+    "project_id": "newstest-d1fac",
+    "storage_bucket": "newstest-d1fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194440518621:android:cc59e258b4e90256",
+        "android_client_info": {
+          "package_name": "com.dev.sanskar.feed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194440518621-lqefk8cs4vu9to9b52h7ib9mou75tdf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQAhgdI3ymiOJnOavbcQTmvGwNa2GGRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194440518621:android:e3df457c1c088c82",
+        "android_client_info": {
+          "package_name": "com.dev.sanskar.newscgpioneer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194440518621-lqefk8cs4vu9to9b52h7ib9mou75tdf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQAhgdI3ymiOJnOavbcQTmvGwNa2GGRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
