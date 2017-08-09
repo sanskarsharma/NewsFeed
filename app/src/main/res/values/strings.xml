@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NewsCGPioneer</string>
+    <string name="app_name">NewsFeed</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_blog__view">Blog_View</string>
 
