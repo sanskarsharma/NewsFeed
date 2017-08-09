@@ -209,7 +209,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.nav_chattisgarh:
 
 
-                MainActivity.this.setTitle("Chhatisgarh");
+                MainActivity.this.setTitle("Team Feed/Notices");
                 mBlogList.getRecycledViewPool().clear();
 
 
