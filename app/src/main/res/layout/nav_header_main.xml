@@ -18,14 +18,16 @@
         android:layout_height="80dp"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
         android:layout_gravity="center"
-        android:src="@drawable/pion20" />
+        android:src="@drawable/pion20"
+        android:scaleX="1.2"
+        android:scaleY="1.2"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text=" Chhattisgarh Pioneer"
-        android:textColor="@color/colorPrimary"
+        android:text=" NewsFeed"
+        android:textColor="#ffffff"
         android:layout_gravity="center_horizontal"
 
         android:textAlignment="center"
@@ -38,7 +40,7 @@
         android:layout_gravity="center"
         android:paddingBottom="5dp"
         android:paddingTop="5dp"
-        android:textColor="@color/colorPrimary"
-        android:text="www.cgpioneer.com" />
+        android:textColor="#ffffff"
+        android:text="github.com/sanskarsharma" />
 
 </LinearLayout>
